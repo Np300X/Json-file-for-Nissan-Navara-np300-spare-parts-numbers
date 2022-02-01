@@ -1,0 +1,776 @@
+{
+    "A01014JM0A":{
+        "name_ar":"طقم وجيه للمحرك",
+        "name_en":"GASKET KIT-ENGINE",
+        "Code":"A01014JM0A",
+        "Price":"216.27$",
+        "kg":"0.773",
+        "image":"./image/A01014JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFXY3JkJAEwPTQpFzNEWQ8bOzwiU1xRUEJRRwEkGEARRllDfxACRwkEAUdeOEN9EHMYGhYLASQYQ1FbSkdeV1VVSEEMW1EMX0YiQElGFgIeCAxUVFEgRVRTUB5PUBMNByIeRgoVHggMMy0tQElGChIeCAwzNygmIVcgUwt1b1VVW1BQXEFNHldPR144PxgAAAAAedS7Ug%3D%3D%24&vid=0&cid=1&uid=193445&q=VSKDD3C27GA018258"
+    },
+    "122793TS0A":{
+        "name_ar":"صوفة محرك خلفي",
+        "name_en":"SEAL-OIL,CRANKSHAFT REAR",
+        "Code":"122793TS0A",
+        "Price":"25.04$",
+        "kg":"0.04",
+        "image":"./image/122793TS0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFnU0JUFDEADQQZJwN0aT8rCwwSY2xhYHJhdzEUKHAhdmlzTyAydzk0MXduCHNNIEMoKiY7MRQoc2FrenduZ2VleHE8a2E8b3YScHl2JjIuODxkZWMQdWRjYC5_YCM9NxIudjolLjg8Ax0dcHl2OiIuODwDBxgWEWcQYztFX2Vla2BgbHF9Lmd_d24IDygAAAAAAEuTmA%3D%3D%24&vid=0&cid=1&uid=193452&q=VSKDD3C27GA018258"
+    },
+    "110004JM0A":{
+        "name_ar":"بلوك محرك",
+        "name_en":"BLOCK ASSY CYLI",
+        "Code":"110004JM0A",
+        "Price":"1298.34$",
+        "kg":"36.88",
+        "image":"./image/110004JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFnU0JUFDEADQQZJwN0aT8rCwwSY2xhYHJhdzEUKHAhdmlzTyAydzk0MXduCHNNIEMoKiY7MRQoc2FrenduZ2VleHE8a2E8b3YScHl2JjIuODxkZWMQdWRjYC5_YCM9NxIudjolLjg8Ax0dcHl2OiIuODwDBxgWEWcQYztFX2Vla2BgbHF9Lmd_d24IDygAAAAAAEuTmA%3D%3D%24&vid=0&cid=1&uid=193452&q=VSKDD3C27GA018258"
+    },
+    "KP71000150":{
+        "name_ar":"معجون محرك",
+        "name_en":"GASKET-LIQUID",
+        "Code":"KP71000150",
+        "Price":"56.79$",
+        "kg":"0.348",
+        "image":"./image/KP71000150.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFnU0JUFDEADQQZJwN0aT8rCwwSY2xhYHJhdzEUKHAhdmlzTyAydzk0MXduCHNNIEMoKiY7MRQoc2FrenduZ2VleHE8a2E8b3YScHl2JjIuODxkZWMQdWRjYC5_YCM9NxIudjolLjg8Ax0dcHl2OiIuODwDBxgWEWcQYztFX2Vla2BgbHF9Lmd_d24IDygAAAAAAEuTmA%3D%3D%24&vid=0&cid=1&uid=193452&q=VSKDD3C27GA018258"
+    },
+    "132644JM0A":{
+        "name_ar":"غطاء محرك",
+        "name_en":"COVER ASSY VALVE ROCKER",
+        "Code":"132644JM0A",
+        "Price":"80.29$",
+        "kg":"1.24",
+        "image":"./image/132644JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEQJDUjY0Z3enNuUHQDHkhcfHtlFBsWFwUWAEZjXwdWAR4EOFdFAE5DRgAZfwQ6VzRfXVFMRmNfBBYcDQAZEBISDwZLHBZLGAFlBw4BUUVZT0sTEhVnAhMUF1kIF1RKQGVZAU1SWU9LdGpqBw4BTVVZT0t0cG9hZhBnFEwyKBISHBcXGwYKWRAIABl_eF8AAAAA7VzovA%3D%3D%24&vid=0&cid=1&uid=193462&q=VSKDD3C27GA018258"
+    },
+    "152559N00A":{
+        "name_ar":"غطاء زيت المحرك",
+        "name_en":"CAP ASSY-OIL FILLER",
+        "Code":"152559N00A",
+        "Price":"14.72$",
+        "kg":"0.05",
+        "image":"./image/152559N00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEQJDUjY0Z3enNuUHQDHkhcfHtlFBsWFwUWAEZjXwdWAR4EOFdFAE5DRgAZfwQ6VzRfXVFMRmNfBBYcDQAZEBISDwZLHBZLGAFlBw4BUUVZT0sTEhVnAhMUF1kIF1RKQGVZAU1SWU9LdGpqBw4BTVVZT0t0cG9hZhBnFEwyKBISHBcXGwYKWRAIABl_eF8AAAAA7VzovA%3D%3D%24&vid=0&cid=1&uid=193462&q=VSKDD3C27GA018258"
+    },
+    "11232JR50A":{
+        "name_ar":"كرسي محرك علوي يمين",
+        "name_en":"BRACKET-ENGINE MOUNTING,RH",
+        "Code":"11232JR50A",
+        "Price":"65.66$",
+        "kg":"1.68",
+        "image":"./image/11232JR50A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEbLz4oaE18cXhlW38IFUNXd3BuHxAdHA4dC01oVAxdChUPM1xOC0VITQsSdA8xXD9UVlpHTWhUDx0XBgsSGxkZBA1AFx1AEwpuDAUKWk5SREAYGR1sCRgfHFIDHF9BS25SCkZZUkRAf2FhDAUKRl5SREB_e2RqbRtsH0c5IxkZFxwcEA0BUhsDCxJ0c1QAAAAA2Z4P5g%3D%3D%24&vid=0&cid=1&uid=193474&q=VSKDD3C27GA018258"
+    },
+    "11233JR50A":{
+        "name_ar":"كرسي محرك علوي يسار",
+        "name_en":"BRACKET-ENGINE MOUNTING,LH",
+        "Code":"11233JR50A",
+        "Price":"46.73$",
+        "kg":"0.954",
+        "image":"./image/11233JR50A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEbLz4oaE18cXhlW38IFUNXd3BuHxAdHA4dC01oVAxdChUPM1xOC0VITQsSdA8xXD9UVlpHTWhUDx0XBgsSGxkZBA1AFx1AEwpuDAUKWk5SREAYGR1sCRgfHFIDHF9BS25SCkZZUkRAf2FhDAUKRl5SREB_e2RqbRtsH0c5IxkZFxwcEA0BUhsDCxJ0c1QAAAAA2Z4P5g%3D%3D%24&vid=0&cid=1&uid=193474&q=VSKDD3C27GA018258"
+    },
+    "112204KJ0C":{
+        "name_ar":"كرسي محرك سفلي",
+        "name_en":"INSULATOR ENGIN",
+        "Code":"112204KJ0C",
+        "Price":"64.66$",
+        "kg":"1.9",
+        "image":"./image/112204KJ0C.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEbLz4oaE18cXhlW38IFUNXd3BuHxAdHA4dC01oVAxdChUPM1xOC0VITQsSdA8xXD9UVlpHTWhUDx0XBgsSGxkZBA1AFx1AEwpuDAUKWk5SREAYGR1sCRgfHFIDHF9BS25SCkZZUkRAf2FhDAUKRl5SREB_e2RqbRtsH0c5IxkZFxwcEA0BUhsDCxJ0c1QAAAAA2Z4P5g%3D%3D%24&vid=0&cid=1&uid=193474&q=VSKDD3C27GA018258"
+    },
+    "117204JM0A":{
+        "name_ar":"سير محرك",
+        "name_en":"BELT-FAN",
+        "Code":"117204JM0A",
+        "Price":"46.65$",
+        "kg":"0.23",
+        "image":"./image/117204JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF5TVxKCi8eExoHOR1qdyE1FRIMfXJ_fmx_aS8KNm4_aHdtUT4saScqL2lwFm1TPl02NDglLwo2bX91ZGlweXt7Zm8idX8icWgMbmdoOCwwJiJ6e3oOa3p9fjBhfj0jKQwwaCQ7MCYiHQMDbmdoJDwwJiIdGQYID3kOfSVbQXt7dX5-cm9jMHlhaXAWETYAAAAARgSkpQ%3D%3D%24&vid=0&cid=1&uid=193479&q=VSKDD3C27GA018258"
+    },
+    "119554JM0A":{
+        "name_ar":"شداد سير محرك",
+        "name_en":"TENSIONER ASSY AUTO",
+        "Code":"119554JM0A",
+        "Price":"82.02$",
+        "kg":"0.79",
+        "image":"./image/119554JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF5TVxKCi8eExoHOR1qdyE1FRIMfXJ_fmx_aS8KNm4_aHdtUT4saScqL2lwFm1TPl02NDglLwo2bX91ZGlweXt7Zm8idX8icWgMbmdoOCwwJiJ6e3oOa3p9fjBhfj0jKQwwaCQ7MCYiHQMDbmdoJDwwJiIdGQYID3kOfSVbQXt7dX5-cm9jMHlhaXAWETYAAAAARgSkpQ%3D%3D%24&vid=0&cid=1&uid=193479&q=VSKDD3C27GA018258"
+    },
+    "123034JM0A":{
+        "name_ar":"بكرة العامود المرفقي (الكرنك)",
+        "name_en":"PULLEY CRANKSHAFT",
+        "Code":"123034JM0A",
+        "Price":"98.77$",
+        "kg":"2.01",
+        "image":"./image/123034JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "122019HP0B":{
+        "name_ar":"العامود المرفقي (الكرنك)",
+        "name_en":"CRANKSHAFT ASSY",
+        "Code":"122019HP0B",
+        "Price":"734.68$",
+        "kg":"17.05",
+        "image":"./image/122019HP0B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "120333TA0A":{
+        "name_ar":"شنابر",
+        "name_en":"RING SET-PISTON",
+        "Code":"120333TA0A",
+        "Price":"61.74$",
+        "kg":"0.08",
+        "image":"./image/120333TA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "A20103TA0C":{
+        "name_ar":"بستاتم",
+        "name_en":"PISTON-W/PIN",
+        "Code":"A20103TA0C",
+        "Price":"39.11$",
+        "kg":"0.5",
+        "image":"./image/A20103TA0C.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "121003TA0A":{
+        "name_ar":"ذراع بستم",
+        "name_en":"ROD COMPL-CONNECTING",
+        "Code":"121003TA0A",
+        "Price":"65.44$",
+        "kg":"0.53",
+        "image":"./image/121003TA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "12111JA00A":{
+        "name_ar":"سبيكة ذراع بستم",
+        "name_en":"BEARING-CONNECTING ROD",
+        "Code":"12111JA00A",
+        "Price":"7.00$",
+        "kg":"0.02",
+        "image":"./image/12111JA00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "12207JA00A":{
+        "name_ar":"سبيكة العامود المرفقي (الكرنك)",
+        "name_en":"BEARING-CRANKSHAFT",
+        "Code":"12207JA00A",
+        "Price":"5.74$",
+        "kg":"0.05",
+        "image":"./image/12207JA00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH2wtPFhaCRnJWItpLl-K66mp2D8v3w8ePw5qCFueGw5_ji3rGj5qiloOb_meLcsdK5u7eqoIW54vD66-b_9vT06eCt-vCt_ueD4ejnt6O_qa319_KB5PXy8b_u8bKspoO_56u0v6mtkoyM4ejnq7O_qa2SlomHgPaB8qrUzvT0-vHx_eDsv_bu5v-ZnrkAAAAA7ZPwCQ%3D%3D%24&vid=0&cid=1&uid=193487&q=VSKDD3C27GA018258"
+    },
+    "13028JA01A":{
+        "name_ar":"جنزير المحرك",
+        "name_en":"CHAIN CAM SHAFT",
+        "Code":"13028JA01A",
+        "Price":"57.82$",
+        "kg":"0.42",
+        "image":"./image/13028JA01A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFJfWx6Oh8uIyo3CS1aRxEFJSI8TUJPTlxPWR86Bl4PWEddYQ4cWRcaH1lAJl1jDm0GBAgVHzoGXU9FVFlASUtLVl8SRU8SQVg8XldYCBwAFhJKSU0-W0pNTgBRTg0TGTwAWBQLABYSLTMzXldYFAwAFhItKTY4P0k-TRVrcUtLRU5OQl9TAElRWUAmIQYAAAAAPuW14g%3D%3D%24&vid=0&cid=1&uid=193506&q=VSKDD3C27GA018258"
+    },
+    "140014JM2A":{
+        "name_ar":"ثلاجة محرك",
+        "name_en":"MANIFOLD INTAKE",
+        "Code":"140014JM2A",
+        "Price":"377.22$",
+        "kg":"4.05",
+        "image":"./image/140014JM2A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEtGQgeXntKR05TbUk-I3VhQUZYKSYrKjgrPXteYjprPCM5BWp4PXN-ez0kQjkHagliYGxxe15iOSshMD0kLS8vMjt2ISt2JTxYOjM8bHhkcnYuKilaPy4pKmQ1Kml3fVhkPHBvZHJ2SVdXOjM8cGhkcnZJTVJcWy1aKXEPFS8vISoqJjs3ZC01PSRCRWIAAAAAGD0zAg%3D%3D%24&vid=0&cid=1&uid=193534&q=VSKDD3C27GA018258"
+    },
+    "140354JM0A":{
+        "name_ar":"وجه ثلاجة محرك",
+        "name_en":"GASKET INTAKE MANIFOLD",
+        "Code":"140354JM0A",
+        "Price":"35.11$",
+        "kg":"0.03",
+        "image":"./image/140354JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEtGQgeXntKR05TbUk-I3VhQUZYKSYrKjgrPXteYjprPCM5BWp4PXN-ez0kQjkHagliYGxxe15iOSshMD0kLS8vMjt2ISt2JTxYOjM8bHhkcnYuKilaPy4pKmQ1Kml3fVhkPHBvZHJ2SVdXOjM8cGhkcnZJTVJcWy1aKXEPFS8vISoqJjs3ZC01PSRCRWIAAAAAGD0zAg%3D%3D%24&vid=0&cid=1&uid=193534&q=VSKDD3C27GA018258"
+    },
+    "140363KA0A":{
+        "name_ar":"وجه هدرز",
+        "name_en":"S GASKET-EXH MA",
+        "Code":"140363KA0A",
+        "Price":"26.80$",
+        "kg":"0.03",
+        "image":"./image/140363KA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFKfm95ORwtICk0Ci5ZRBIGJiE_TkFMTV9MWhw5BV0MW0ReYg0fWhQZHFpDJV5gDW4FBwsWHDkFXkxGV1pDSkhIVVwRRkwRQls_XVRbCx8DFRFJTU49WElOTgNSTQ4QGj8DWxcIAxURLjAwXVRbFw8DFREuKjU7PEo9ThZockhIRk1NQVxQA0pSWkMlIgUAAAAA9p97Qg%3D%3D%24&vid=0&cid=1&uid=193535&q=VSKDD3C27GA018258"
+    },
+    "140E24KD0A":{
+        "name_ar":"هدرز",
+        "name_en":"MANIFOLD ASSY-E",
+        "Code":"140E24KD0A",
+        "Price":"1230.26$",
+        "kg":"7.52",
+        "image":"./image/140E24KD0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFKfm95ORwtICk0Ci5ZRBIGJiE_TkFMTV9MWhw5BV0MW0ReYg0fWhQZHFpDJV5gDW4FBwsWHDkFXkxGV1pDSkhIVVwRRkwRQls_XVRbCx8DFRFJTU49WElOTgNSTQ4QGj8DWxcIAxURLjAwXVRbFw8DFREuKjU7PEo9ThZockhIRk1NQVxQA0pSWkMlIgUAAAAA9p97Qg%3D%3D%24&vid=0&cid=1&uid=193535&q=VSKDD3C27GA018258"
+    },
+    "1520865F0E":{
+        "name_ar":"فلتر زيت",
+        "name_en":"OIL FILTER",
+        "Code":"1520865F0E",
+        "Price":"5.78$",
+        "kg":"0.18",
+        "image":"./image/1520865F0E.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHj18bQkLWEiYCdo4fw7buvj4iW5-jl5Pbl87WQrPSl8u33y6S2872wtfPqjPfJpMesrqK_tZCs9-Xv_vPq4-Hh_PW47-W46_KW9P3yoraqvLjg5eeU8eDn5Kr75Ke5s5aq8r6hqry4h5mZ9P3yvqaqvLiHg5ySleOU57_B2-Hh7-Tk6PX5quP78-qMi6wAAAAAquYH9Q%3D%3D%24&vid=0&cid=1&uid=193563&q=VSKDD3C27GA018258"
+    },
+    "161194JM0C":{
+        "name_ar":"الصِّمام الخانِق (الثروتل)",
+        "name_en":"CHAMBER ASSY THROTTLE",
+        "Code":"161194JM0C",
+        "Price":"745.40$",
+        "kg":"0.96",
+        "image":"./image/161194JM0C.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFkUEFXFzIDDgcaJAB3ajwoCA8RYG9iY3FidDIXK3MidWpwTCMxdDo3MnRtC3BNI0ArKSU4MhcrcGJoeXRtZGZme3I_aGI_bHUSc3p1JTEtOz9nYWMTdmdgYy18YyA-NBEtdTkmLTs_AB4ec3p1OSEtOz8ABBsVEmQTYDhGXGZmaGNjb3J-LWR8dG0LDCsAAAAAihWPjA%3D%3D%24&vid=0&cid=2&uid=193573&q=VSKDD3C27GA018258"
+    },
+    "16600EA00A":{
+        "name_ar":"بخاخات",
+        "name_en":"INJECTOR ASSY-FUEL",
+        "Code":"16600EA00A",
+        "Price":"143.25$",
+        "kg":"0.05",
+        "image":"./image/16600EA00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFtWUheHjsKBw4TLQl-YzUhAQYYaWZranhrfTseInorfGN5RSo4fTM-O31kAnlEKkkiICwxOx4ieWthcH1kbW9vcns2YWs2ZXwbenN8LDgkMjZuaG0af25paiR1aik3PRgkfDAvJDI2CRcXenN8MCgkMjYJDRIcG20aaTFPVW9vYWpqZnt3JG11fWQCBSIAAAAAukGufQ%3D%3D%24&vid=0&cid=2&uid=193575&q=VSKDD3C27GA018258"
+    },
+    "165464JA1A":{
+        "name_ar":"فلتر هواء",
+        "name_en":"AIR CLEANER ELE",
+        "Code":"165464JA1A",
+        "Price":"25.62$",
+        "kg":"0.28",
+        "image":"./image/165464JA1A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGmkoOV1fDBzMXY5sK1qP7qys3Toq2gobOgtvDV6bHgt6iyjuHztvj18LavybKP4YLp6-f68NXpsqCqu7avpqSkubD9qqD9rrfQsbi35_Pv-f2lo6fRtKWioe--oeL89tPvt_vk7_n9wtzcsbi3--Pv-f3CxtnX0KbRovqEnqSkqqGhrbC876a-tq_JzukAAAAAY-qUtg%3D%3D%24&vid=0&cid=2&uid=193582&q=VSKDD3C27GA018258"
+    },
+    "226807131R":{
+        "name_ar":"حساس هواء",
+        "name_en":"METER-AIR FLOW",
+        "Code":"226807131R",
+        "Price":"707.44$",
+        "kg":"0.04",
+        "image":"./image/226807131R.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGmkoOV1fDBzMXY5sK1qP7qys3Toq2gobOgtvDV6bHgt6iyjuHztvj18LavybKP4YLp6-f68NXpsqCqu7avpqSkubD9qqD9rrfQsbi35_Pv-f2lo6fRtKWioe--oeL89tPvt_vk7_n9wtzcsbi3--Pv-f3CxtnX0KbRovqEnqSkqqGhrbC876a-tq_JzukAAAAAY-qUtg%3D%3D%24&vid=0&cid=2&uid=193582&q=VSKDD3C27GA018258"
+    },
+    "170404KJ0A":{
+        "name_ar":"مضخة وقود",
+        "name_en":"FUEL PUMP",
+        "Code":"170404KJ0A",
+        "Price":"330.72$",
+        "kg":"1.64",
+        "image":"./image/170404KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGxhZSCwufW29LP8dWiv-n93drEtbq3tqS3oefC_qb3oL-lmfbkoe_i56G43qWY9pX-_PDt58L-pbe9rKG4sbOzrqfqvbfquaDHpq-g8OT47uqytbfGo7K1tviptvXr4cT4oOzz-O7q1cvLpq-g7PT47urV0c7Ax7HGte2TibOzvba2uqer-LGpobje2f4AAAAAU5mvMw%3D%3D%24&vid=0&cid=2&uid=193586&q=VSKDD3C27GA018258"
+    },
+    "180024JA0A":{
+        "name_ar":"دعسة وقود",
+        "name_en":"LEVER COMPLETE ACCELERATOR",
+        "Code":"180024JA0A",
+        "Price":"208.31$",
+        "kg":"0.56",
+        "image":"./image/180024JA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEzBxYAQGVUWVBNc1cgPWt_X1hGNzg1NCY1I2VAfCR1Ij0nG3RmI21gZSM6XCcadBd8fnJvZUB8JzU_LiM6MzExLCVoPzVoOyJFJC0icmZ6bGgwODdHITA3NHorNHdpY0Z6Im5xemxoV0lJJC0ibnZ6bGhXU0xCRTNEN28RCzExPzQ0OCUpejMrIzpcW3wAAAAAxG56Zg%3D%3D%24&vid=0&cid=2&uid=193599&q=VSKDD3C27GA018258"
+    },
+    "210824JM1A":{
+        "name_ar":"كلتش مروحة",
+        "name_en":"FAN CLUTCH",
+        "Code":"210824JM1A",
+        "Price":"28.27$",
+        "kg":"1.26",
+        "image":"./image/210824JM1A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFjV0ZQEDUECQAdIwdwbTsvDwgWZ2hlZHZlczUQLHQlcm13SyQ2cz0wNXNqDHdLJEcsLiI_NRAsd2VvfnNqY2FhfHU4b2U4a3IUdH1yIjYqPDhjYWcUcWBnZCp7ZCc5MxYqcj4hKjw4BxkZdH1yPiYqPDgHAxwSFWMUZz9BW2Fhb2RkaHV5KmN7c2oMCywAAAAAos8eOQ%3D%3D%24&vid=0&cid=3&uid=193615&q=VSKDD3C27GA018258"
+    },
+    "210604JM0A":{
+        "name_ar":"مروحة تبريد",
+        "name_en":"FAN COOLING",
+        "Code":"210604JM0A",
+        "Price":"50.86$",
+        "kg":"0.98",
+        "image":"./image/210604JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFjV0ZQEDUECQAdIwdwbTsvDwgWZ2hlZHZlczUQLHQlcm13SyQ2cz0wNXNqDHdLJEcsLiI_NRAsd2VvfnNqY2FhfHU4b2U4a3IUdH1yIjYqPDhjYWcUcWBnZCp7ZCc5MxYqcj4hKjw4BxkZdH1yPiYqPDgHAxwSFWMUZz9BW2Fhb2RkaHV5KmN7c2oMCywAAAAAos8eOQ%3D%3D%24&vid=0&cid=3&uid=193615&q=VSKDD3C27GA018258"
+    },
+    "214104KJ0B":{
+        "name_ar":"رديتر",
+        "name_en":"RADIATOR",
+        "Code":"214104KJ0B",
+        "Price":"339.48$",
+        "kg":"4.18",
+        "image":"./image/214104KJ0B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEYLD0ra05_cntmWHwLFkBUdHNtHBMeHw0eCE5rVw9eCRYMMF9NCEZLTggRdwwwXzxXVVlETmtXDB4UBQgRGBoaBw5DFB5DEAlvDwYJWU1RR0MYGhhvChscH1EAH1xCSG1RCUVaUUdDfGJiDwYJRV1RR0N8eGdpbhhvHEQ6IBoaFB8fEw4CURgACBF3cFcAAAAAovlflA%3D%3D%24&vid=0&cid=3&uid=193632&q=VSKDD3C27GA018258"
+    },
+    "224481KT0A":{
+        "name_ar":"كويلات",
+        "name_en":"COIL-IGNITION",
+        "Code":"224481KT0A",
+        "Price":"49.80$",
+        "kg":"0.18",
+        "image":"./image/224481KT0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFWYnNlJQAxPDUoFjJFWA4aOj0jUl1QUUNQRgAlGUEQR1hCfhEDRggFAEZfOUJ5EXIZGxcKACUZQlBaS0ZfVlRUSUANWlANXkcmQUhHFwMfCQ1WV1IhRFVSUR9OURIMBiMfRwsUHwkNMiwsQUhHCxMfCQ0yNiknIFYhUgp0blRUWlFRXUBMH1ZORl85PhkAAAAA4rbyUw%3D%3D%24&vid=0&cid=4&uid=193635&q=VSKDD3C27GA018258"
+    },
+    "22401ED71B":{
+        "name_ar":"بواجي",
+        "name_en":"PLUG-SPARK",
+        "Code":"22401ED71B",
+        "Price":"26.96$",
+        "kg":"0.04",
+        "image":"./image/22401ED71B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFWYnNlJQAxPDUoFjJFWA4aOj0jUl1QUUNQRgAlGUEQR1hCfhEDRggFAEZfOUJ5EXIZGxcKACUZQlBaS0ZfVlRUSUANWlANXkcmQUhHFwMfCQ1WV1IhRFVSUR9OURIMBiMfRwsUHwkNMiwsQUhHCxMfCQ0yNiknIFYhUgp0blRUWlFRXUBMH1ZORl85PhkAAAAA4rbyUw%3D%3D%24&vid=0&cid=4&uid=193635&q=VSKDD3C27GA018258"
+    },
+    "23731JA11B":{
+        "name_ar":"حساس الكامات",
+        "name_en":"CAMSHAFT POSITION SENSOR",
+        "Code":"23731JA11B",
+        "Price":"64.07$",
+        "kg":"0.02",
+        "image":"./image/23731JA11B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEFMSA2dlNib2Z7RWEWC11JaW5wAQ4DAhADFVN2ShJDFAsRLUJQFVtWUxUMahEqQiFKSERZU3ZKEQMJGBUMBQcHGhNeCQNeDRR1EhsURFBMWl4FBABxFwYBAkwdAkFfVXBMFFhHTFpeYX9_EhsUWEBMWl5hZXp0cwVyAVknPQcHCQICDhMfTAUdFQxqbUoAAAAAW57a_w%3D%3D%24&vid=0&cid=4&uid=193638&q=VSKDD3C27GA018258"
+    },
+    "23731JA00C":{
+        "name_ar":"حساس العامود المرفقي (الكرنك)",
+        "name_en":"CRANKSHAFT SENSOR",
+        "Code":"23731JA00C",
+        "Price":"45.13$",
+        "kg":"0.03",
+        "image":"./image/23731JA00C.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEFMSA2dlNib2Z7RWEWC11JaW5wAQ4DAhADFVN2ShJDFAsRLUJQFVtWUxUMahEqQiFKSERZU3ZKEQMJGBUMBQcHGhNeCQNeDRR1EhsURFBMWl4FBABxFwYBAkwdAkFfVXBMFFhHTFpeYX9_EhsUWEBMWl5hZXp0cwVyAVknPQcHCQICDhMfTAUdFQxqbUoAAAAAW57a_w%3D%3D%24&vid=0&cid=4&uid=193638&q=VSKDD3C27GA018258"
+    },
+    "226934CL0A":{
+        "name_ar":"حساس الأوكسجين (الهدرز)",
+        "name_en":"Oxygen Sensor",
+        "Code":"226934CL0A",
+        "Price":"353.50$",
+        "kg":"0.08",
+        "image":"./image/226934CL0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFkUEFXFzIDDgcaJAB3ajwoCA8RYG9iY3FidDIXK3MidWpwTCMxdDo3MnRtC3BLI0ArKSU4MhcrcGJoeXRtZGZme3I_aGI_bHUUc3p1JTEtOz9kZWYTdmdgYy18YyA-NBEtdTkmLTs_AB4ec3p1OSEtOz8ABBsVEmQTYDhGXGZmaGNjb3J-LWR8dG0LDCsAAAAA9vMZww%3D%3D%24&vid=0&cid=4&uid=193651&q=VSKDD3C27GA018258"
+    },
+    "231004KD0A":{
+        "name_ar":"دينمو كهرباء",
+        "name_en":"ALTERNATOR",
+        "Code":"231004KD0A",
+        "Price":"158.22$",
+        "kg":"5.86",
+        "image":"./image/231004KD0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF_S1pMDCkYFRwBPxtscSczExQKe3R5eGp5bykMMGg5bnFrVzgqbyEsKW92EGtQOFswMj4jKQwwa3lzYm92f319YGkkc3kkd24PaGFuPio2ICR_f3oIbXx7eDZneDslLwo2biI9NiAkGwUFaGFuIjo2ICQbHwAOCX8IeyNdR319c3h4dGllNn9nb3YQFzAAAAAAkQsvUQ%3D%3D%24&vid=0&cid=4&uid=193664&q=VSKDD3C27GA018258"
+    },
+    "23300EA00A":{
+        "name_ar":"سلف",
+        "name_en":"MOTORSTARTER",
+        "Code":"23300EA00A",
+        "Price":"387.93$",
+        "kg":"2.9",
+        "image":"./image/23300EA00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGarr-p6cz98Pnk2v6JlMLW9vHvnpGcnY-ciszp1Y3ci5SOst3PisTJzIqT9Y613b7V19vGzOnVjpyWh4qTmpiYhYzBlpzBkovqjYSL28_TxcGamp3tiJmendOCnd7Ayu_Ti8fY08XB_uDgjYSLx9_TxcH--uXr7Jrtnsa4opiYlp2dkYyA05qCipP18tUAAAAAe98otw%3D%3D%24&vid=0&cid=4&uid=193668&q=VSKDD3C27GA018258"
+    },
+    "256104JA0A":{
+        "name_ar":"بوري عالي",
+        "name_en":"HORN ELECTRIC HIGH",
+        "Code":"256104JA0A",
+        "Price":"69.57$",
+        "kg":"0.23",
+        "image":"./image/256104JA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFqXk9ZGTwNAAkUKg55ZDImBgEfbmFsbX9sejwZJX0se2R-Qi0_ejQ5PHpjBX5ELU4lJys2PBklfmxmd3pjamhodXwxZmwxYnsbfXR7Kz8jNTFqbG0eeGlubiNybS4wOh8jezcoIzUxDhAQfXR7Ny8jNTEOChUbHGodbjZIUmhoZm1tYXxwI2pyemMFAiUAAAAAiimVqw%3D%3D%24&vid=0&cid=5&uid=193688&q=VSKDD3C27GA018258"
+    },
+    "256204JA0A":{
+        "name_ar":"بوري واطي",
+        "name_en":"HORN ELECTRIC",
+        "Code":"256204JA0A",
+        "Price":"52.96$",
+        "kg":"0.21",
+        "image":"./image/256204JA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFqXk9ZGTwNAAkUKg55ZDImBgEfbmFsbX9sejwZJX0se2R-Qi0_ejQ5PHpjBX5ELU4lJys2PBklfmxmd3pjamhodXwxZmwxYnsbfXR7Kz8jNTFqbG0eeGlubiNybS4wOh8jezcoIzUxDhAQfXR7Ny8jNTEOChUbHGodbjZIUmhoZm1tYXxwI2pyemMFAiUAAAAAiimVqw%3D%3D%24&vid=0&cid=5&uid=193688&q=VSKDD3C27GA018258"
+    },
+    "261608990A":{
+        "name_ar":"غطاء فلشر جانبي (رفرف)",
+        "name_en":"LAMP ASSY-SIDE FLASHER",
+        "Code":"261608990A",
+        "Price":"16.17$",
+        "kg":"0.02",
+        "image":"./image/261608990A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwECNicxcVRlaGF8QmYRDFpObml3BgkEBRcEElRxTRVEEwwWKkVXElxRVBILbRYsRSZNT0NeVHFNFgQOHxILAgAAHRRZDgRZChNzFRwTQ1dLXVkCBwR2EAEGBUsaBUZYUndLE19AS11ZZnh4FRwTX0dLXVlmYn1zdAJ1Bl4gOgAADgUFCRQYSwIaEgttak0AAAAATJXQiQ%3D%3D%24&vid=0&cid=5&uid=193694&q=VSKDD3C27GA018258"
+    },
+    "2626189968":{
+        "name_ar":"لمبة فلشر جانبي (رفرف)",
+        "name_en":"BULB FLASHER",
+        "Code":"2626189968",
+        "Price":"4.02$",
+        "kg":"0.001",
+        "image":"./image/2626189968.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwECNicxcVRlaGF8QmYRDFpObml3BgkEBRcEElRxTRVEEwwWKkVXElxRVBILbRYsRSZNT0NeVHFNFgQOHxILAgAAHRRZDgRZChNzFRwTQ1dLXVkCBwR2EAEGBUsaBUZYUndLE19AS11ZZnh4FRwTX0dLXVlmYn1zdAJ1Bl4gOgAADgUFCRQYSwIaEgttak0AAAAATJXQiQ%3D%3D%24&vid=0&cid=5&uid=193694&q=VSKDD3C27GA018258"
+    },
+    "260104KJ0B":{
+        "name_ar":"مصباح امامي يمين",
+        "name_en":"HEADLAMP RH",
+        "Code":"260104KJ0B",
+        "Price":"309.21$",
+        "kg":"2.55",
+        "image":"./image/260104KJ0B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFfa3psLAk4NTwhHztMUQcTMzQqW1RZWEpZTwksEEgZTlFLdxgKTwEMCU9WMEtxGHsQEh4DCSwQS1lTQk9WX11dQEkEU1kEV04uSEFOHgoWAARfWlsrTVxbWBZHWBsFDyoWTgIdFgAEOyUlSEFOAhoWAAQ7PyAuKV8oWwN9Z11dU1hYVElFFl9HT1YwNxAAAAAAoHttjQ%3D%3D%24&vid=0&cid=5&uid=193693&q=VSKDD3C27GA018258"
+    },
+    "260604KJ0B":{
+        "name_ar":"مصباح امامي يسار",
+        "name_en":"HEADLAMP LH",
+        "Code":"260604KJ0B",
+        "Price":"305.45$",
+        "kg":"2.55",
+        "image":"./image/260604KJ0B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFfa3psLAk4NTwhHztMUQcTMzQqW1RZWEpZTwksEEgZTlFLdxgKTwEMCU9WMEtxGHsQEh4DCSwQS1lTQk9WX11dQEkEU1kEV04uSEFOHgoWAARfWlsrTVxbWBZHWBsFDyoWTgIdFgAEOyUlSEFOAhoWAAQ7PyAuKV8oWwN9Z11dU1hYVElFFl9HT1YwNxAAAAAAoHttjQ%3D%3D%24&vid=0&cid=5&uid=193693&q=VSKDD3C27GA018258"
+    },
+    "26510JD00A":{
+        "name_ar":"غطاء مصباح لوحة الترخيص الخلفية",
+        "name_en":"LAMP ASSY-LICENCE PLATE",
+        "Code":"26510JD00A",
+        "Price":"12.71$",
+        "kg":"0.03",
+        "image":"./image/26510JD00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEsGAkfX3pLRk9SbEg_InRgQEdZKCcqKzkqPHpfYztqPSI4BGt5PHJ_ejwlQzgCawhjYW1wel9jOCogMTwlLC4uMzp3ICp3JD1dOzI9bXllc3csKS5YPi8oK2U0K2h2fFllPXFuZXN3SFZWOzI9cWllc3dITFNdWixbKHAOFC4uICsrJzo2ZSw0PCVDRGMAAAAAUM7FHA%3D%3D%24&vid=0&cid=5&uid=193699&q=VSKDD3C27GA018258"
+    },
+    "2626189965":{
+        "name_ar":"مصباح لوحة الترخيص الخلفية",
+        "name_en":"BULB PLATE",
+        "Code":"2626189965",
+        "Price":"2.83$",
+        "kg":"0.002",
+        "image":"./image/2626189965.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEsGAkfX3pLRk9SbEg_InRgQEdZKCcqKzkqPHpfYztqPSI4BGt5PHJ_ejwlQzgCawhjYW1wel9jOCogMTwlLC4uMzp3ICp3JD1dOzI9bXllc3csKS5YPi8oK2U0K2h2fFllPXFuZXN3SFZWOzI9cWllc3dITFNdWixbKHAOFC4uICsrJzo2ZSw0PCVDRGMAAAAAUM7FHA%3D%3D%24&vid=0&cid=5&uid=193699&q=VSKDD3C27GA018258"
+    },
+    "261508992A":{
+        "name_ar":"كشافات ضياب امامي يمين",
+        "name_en":"LAMP FOG,RH",
+        "Code":"261508992A",
+        "Price":"87.00$",
+        "kg":"0.39",
+        "image":"./image/261508992A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFFcWB2NhMiLyY7BSFWSx0JKS4wQU5DQlBDVRM2ClIDVEtRbQIQVRsWE1VMKlFrAmEKCAQZEzYKUUNJWFVMRUdHWlMeSUMeTVQ0UltUBBAMGh5FQEIxV0ZBQgxdQgEfFTAMVBgHDBoeIT8_UltUGAAMGh4hJTo0M0UyQRlnfUdHSUJCTlNfDEVdVUwqLQoAAAAAJN-ZsA%3D%3D%24&vid=0&cid=5&uid=193695&q=VSKDD3C27GA018258"
+    },
+    "261558992A":{
+        "name_ar":"كشافات ضياب امامي يسار",
+        "name_en":"LAMP FOG,LH",
+        "Code":"261558992A",
+        "Price":"187.06$",
+        "kg":"0.4",
+        "image":"./image/261558992A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFFcWB2NhMiLyY7BSFWSx0JKS4wQU5DQlBDVRM2ClIDVEtRbQIQVRsWE1VMKlFrAmEKCAQZEzYKUUNJWFVMRUdHWlMeSUMeTVQ0UltUBBAMGh5FQEIxV0ZBQgxdQgEfFTAMVBgHDBoeIT8_UltUGAAMGh4hJTo0M0UyQRlnfUdHSUJCTlNfDEVdVUwqLQoAAAAAJN-ZsA%3D%3D%24&vid=0&cid=5&uid=193695&q=VSKDD3C27GA018258"
+    },
+    "27277VP01A":{
+        "name_ar":"فلتر مكيف",
+        "name_en":"FILTER KIT A/C",
+        "Code":"27277VP01A",
+        "Price":"34.76$",
+        "kg":"0.16",
+        "image":"./image/27277VP01A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwE4DB0LS25fUltGeFwrNmB0VFNNPDM-Py0-KG5Ldy9-KTYsEH9tKGZrbigxVywWfxx3dXlkbkt3LD40JSgxODo6Jy5jND5jMClJLyYpeW1xZ2M4PDxMKjs8PHEgP3xiaE1xKWV6cWdjXEJCLyYpZX1xZ2NcWEdJTjhPPGQaADo6ND8_My4icTggKDFXUHcAAAAAJ5UgPA%3D%3D%24&vid=0&cid=5&uid=193703&q=VSKDD3C27GA018258"
+    },
+    "926004JM2B":{
+        "name_ar":"كمبروسر مكيف",
+        "name_en":"COMPRESSOR",
+        "Code":"926004JM2B",
+        "Price":"570.59$",
+        "kg":"6.86",
+        "image":"./image/926004JM2B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHC9ufxsZSlqKG8gqbRzJqOrqm3xsnExdfE0pSxjdWE08zW6oWX0pyRlNLLrdbsheaNj4OelLGN1sTO39LLwsDA3dSZzsSZytOz1dzTg5eLnZnCxsK20MHGxYvaxYaYkreL05-Ai52Zpri41dzTn4eLnZmmor2ztMK1xp7g-sDAzsXFydTYi8La0sutqo0AAAAAON0w5A%3D%3D%24&vid=0&cid=5&uid=193708&q=VSKDD3C27GA018258"
+    },
+    "288904KJ0A":{
+        "name_ar":"مساحات قزاز امامي يسار",
+        "name_en":"BLADE WIND, LH",
+        "Code":"288904KJ0A",
+        "Price":"32.24$",
+        "kg":"0.18",
+        "image":"./image/288904KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFrX05YGD0MAQgVKw94ZTMnBwAeb2BtbH5tez0YJHwtemV_Qyw-ezU4PXtiBH9FLE8kJio3PRgkf21ndntia2lpdH0wZ20wY3oafHV6Kj4iNDBrYGcfeWhvbCJzbC8xOx4iejYpIjQwDxERfHV6Ni4iNDAPCxQaHWscbzdJU2lpZ2xsYH1xImtze2IEAyQAAAAAfFDrqw%3D%3D%24&vid=0&cid=5&uid=193725&q=VSKDD3C27GA018258"
+    },
+    "288904KJ1A":{
+        "name_ar":"مساحات قزاز امامي يمين",
+        "name_en":"BLADE WIND, RH",
+        "Code":"288904KJ1A",
+        "Price":"32.24$",
+        "kg":"0.18",
+        "image":"./image/288904KJ1A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFrX05YGD0MAQgVKw94ZTMnBwAeb2BtbH5tez0YJHwtemV_Qyw-ezU4PXtiBH9FLE8kJio3PRgkf21ndntia2lpdH0wZ20wY3oafHV6Kj4iNDBrYGcfeWhvbCJzbC8xOx4iejYpIjQwDxERfHV6Ni4iNDAPCxQaHWscbzdJU2lpZ2xsYH1xImtze2IEAyQAAAAAfFDrqw%3D%3D%24&vid=0&cid=5&uid=193725&q=VSKDD3C27GA018258"
+    },
+    "30100JR50A":{
+        "name_ar":"دسك كلتش",
+        "name_en":"DISC CLUTCH",
+        "Code":"30100JR50A",
+        "Price":"125.45$",
+        "kg":"1.52",
+        "image":"./image/30100JR50A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFWYnNlJQAxPDUoFjJFWA4aOj0jUl1QUUNQRgAlGUEQR1hCfhEDRggFAEZfOUJ7EXIZGxcKACUZQlBaS0ZfVlRUSUANWlANXkckQUhHFwMfCQ1XVVIhRFVSUR9OURIMBiMfRwsUHwkNMiwsQUhHCxMfCQ0yNiknIFYhUgp0blRUWlFRXUBMH1ZORl85PhkAAAAA7vqUQg%3D%3D%24&vid=0&cid=6&uid=193728&q=VSKDD3C27GA018258"
+    },
+    "302104JM0A":{
+        "name_ar":"صحن كلتش",
+        "name_en":"COVER CLUTCH",
+        "Code":"302104JM0A",
+        "Price":"175.58$",
+        "kg":"5.61",
+        "image":"./image/302104JM0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFWYnNlJQAxPDUoFjJFWA4aOj0jUl1QUUNQRgAlGUEQR1hCfhEDRggFAEZfOUJ7EXIZGxcKACUZQlBaS0ZfVlRUSUANWlANXkckQUhHFwMfCQ1XVVIhRFVSUR9OURIMBiMfRwsUHwkNMiwsQUhHCxMfCQ0yNiknIFYhUgp0blRUWlFRXUBMH1ZORl85PhkAAAAA7vqUQg%3D%3D%24&vid=0&cid=6&uid=193728&q=VSKDD3C27GA018258"
+    },
+    "306105X01B":{
+        "name_ar":"علبة كلتش",
+        "name_en":"CYLINDER CLUTCH MASTER",
+        "Code":"306105X01B",
+        "Price":"107.43$",
+        "kg":"0.45",
+        "image":"./image/306105X01B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHk0MHXl7KDjoeapID36ryoiI-R4O_i4_Hi9LKXq_Oi9erwzKOx9Lq3svTti_DJo8CrqaW4sper8OLo-fTt5Obm-_K_6OK_7PWW8_r1pbGtu7_l5-WQ9ufg463846C-tJGt9bmmrbu_gJ6e8_r1uaGtu7-AhJuVkuST4LjG3Obm6OPj7_L-reT89O2LjKsAAAAA6mNnLg%3D%3D%24&vid=0&cid=6&uid=193731&q=VSKDD3C27GA018258"
+    },
+    "C20104JM4A":{
+        "name_ar":"ناقل الحركة اليدوي (القير)",
+        "name_en":"MANUAL TRANSMIS",
+        "Code":"C20104JM4A",
+        "Price":"3539.43$",
+        "kg":"60",
+        "image":"./image/C20104JM4A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGBtaSy8tfm6-L_weWSj9nN7er0hYqHhpSHkdfyzpbHkI-VqcbUkd_S15GI7pWsxqXOzMDd1_LOlYeNnJGIgYODnpfajYfaiZDzlp-QwNTI3tqAgIX1k4KFhsiZhsXb0fTIkNzDyN7a5fv7lp-Q3MTI3trl4f7w94H2hd2juYODjYaGipebyIGZkYju6c4AAAAAG2E9dw%3D%3D%24&vid=0&cid=6&uid=193759&q=VSKDD3C27GA018258"
+    },
+    "402064KJ0A":{
+        "name_ar":"هوبات أمامية",
+        "name_en":"ROTOR DISC BRAK",
+        "Code":"402064KJ0A",
+        "Price":"113.67$",
+        "kg":"7.12",
+        "image":"./image/402064KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHa7v_pqYy9sLmkmr7J1IKWtrGv3tHc3c_cyoyplc2cy9TO8p2PyoSJjMrTtc72nf6Vl5uGjKmVztzWx8rT2tjYxcyB1tyB0supzcTLm4-ThYHc2d6uyNne3ZPC3Z6Aiq-Ty4eYk4WBvqCgzcTLh5-ThYG-uqWrrNqt3ob44tjY1t3d0czAk9rCytO1spUAAAAAZU7DzA%3D%3D%24&vid=0&cid=7&uid=193814&q=VSKDD3C27GA018258"
+    },
+    "545244KH0A":{
+        "name_ar":"مقص علوي امامي يمين",
+        "name_en":"LINK COMPL FRT SUSPENSION UPPR, RH",
+        "Code":"545244KH0A",
+        "Price":"85.41$",
+        "kg":"2.37",
+        "image":"./image/545244KH0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHa7v_pqYy9sLmkmr7J1IKWtrGv3tHc3c_cyoyplc2cy9TO8p2PyoSJjMrTtc72nf6Vl5uGjKmVztzWx8rT2tjYxcyB1tyB0supzcTLm4-ThYHc2d6uyNne3ZPC3Z6Aiq-Ty4eYk4WBvqCgzcTLh5-ThYG-uqWrrNqt3ob44tjY1t3d0czAk9rCytO1spUAAAAAZU7DzA%3D%3D%24&vid=0&cid=7&uid=193814&q=VSKDD3C27GA018258"
+    },
+    "545254KH0A":{
+        "name_ar":"مقص علوي امامي يسار",
+        "name_en":"LINK COMPL FRT SUSPENSION UPPR, LH",
+        "Code":"545254KH0A",
+        "Price":"89.94$",
+        "kg":"2.65",
+        "image":"./image/545244KH0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHa7v_pqYy9sLmkmr7J1IKWtrGv3tHc3c_cyoyplc2cy9TO8p2PyoSJjMrTtc72nf6Vl5uGjKmVztzWx8rT2tjYxcyB1tyB0supzcTLm4-ThYHc2d6uyNne3ZPC3Z6Aiq-Ty4eYk4WBvqCgzcTLh5-ThYG-uqWrrNqt3ob44tjY1t3d0czAk9rCytO1spUAAAAAZU7DzA%3D%3D%24&vid=0&cid=7&uid=193814&q=VSKDD3C27GA018258"
+    },
+    "545004KH5A":{
+        "name_ar":"مقص سفلي امامي يمين",
+        "name_en":"LINK COMPL-FRONT SUSPENSION,LOWER RH",
+        "Code":"545004KH5A",
+        "Price":"206.25$",
+        "kg":"4.392",
+        "image":"./image/545004KH5A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/diagram?c=Nissan&ssd=%24%2AKwEhFQRpQEB4JGZcUlBzCXltTUpUJSonJjQyMXdSbjZ6ZjctaBQZQVNYNj8weGUjIHopMFJYMT43ejlmYjFWJydLMDk1LyIuMSgiJD8wcHZofgMxI0pXW1NGRAMXej8wJ0tKViciDgAMWjA5NiBNRjgGCw88Uzc4MSZKWh5mdDEnSiZEVjc7aHIHXldNNj8wIkgcZgVuAAAAAKUb-J8%24&number=545014KH5A"
+    },
+    "545014KH5A":{
+        "name_ar":"مقص سفلي امامي يسار",
+        "name_en":"LINK COMPL-FRONT SUSPENSION,LOWER LH",
+        "Code":"545014KH5A",
+        "Price":"206.25$",
+        "kg":"4.392",
+        "image":"./image/545004KH5A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/diagram?c=Nissan&ssd=%24%2AKwEhFQRpQEB4JGZcUlBzCXltTUpUJSonJjQyMXdSbjZ6ZjctaBQZQVNYNj8weGUjIHopMFJYMT43ejlmYjFWJydLMDk1LyIuMSgiJD8wcHZofgMxI0pXW1NGRAMXej8wJ0tKViciDgAMWjA5NiBNRjgGCw88Uzc4MSZKWh5mdDEnSiZEVjc7aHIHXldNNj8wIkgcZgVuAAAAAKUb-J8%24&number=545014KH5A"
+    },
+    "E61104KK4B":{
+        "name_ar":"مساعد أمامي",
+        "name_en":"SHOCK ABSORBER",
+        "Code":"E61104KK4B",
+        "Price":"144.21$",
+        "kg":"4.32",
+        "image":"./image/E61104KK4B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFMeGl_PxorJi8yDChfQhQAICc5SEdKS1lKXBo_A1sKXUJYZAsZXBIfGlxFI1hgC2gDAQ0QGj8DWEpAUVxFTE5OU1oXQEoXRF0_W1JdDRkFExdKT0k4Xk9ISAVUSwgWHDkFXREOBRMXKDY2W1JdEQkFExcoLDM9Okw7SBBudE5OQEtLR1pWBUxUXEUjJAMAAAAARuyL5g%3D%3D%24&vid=0&cid=7&uid=193817&q=VSKDD3C27GA018258"
+    },
+    "540104KJ1A":{
+        "name_ar":"يايات",
+        "name_en":"SHOCK ABSORBER",
+        "Code":"540104KJ1A",
+        "Price":"174.68$",
+        "kg":"2.82",
+        "image":"./image/540104KJ1A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFMeGl_PxorJi8yDChfQhQAICc5SEdKS1lKXBo_A1sKXUJYZAsZXBIfGlxFI1hgC2gDAQ0QGj8DWEpAUVxFTE5OU1oXQEoXRF0_W1JdDRkFExdKT0k4Xk9ISAVUSwgWHDkFXREOBRMXKDY2W1JdEQkFExcoLDM9Okw7SBBudE5OQEtLR1pWBUxUXEUjJAMAAAAARuyL5g%3D%3D%24&vid=0&cid=7&uid=193817&q=VSKDD3C27GA018258"
+    },
+    "43206EB360":{
+        "name_ar":"هوبات خلفية",
+        "name_en":"BRAKE DRUM",
+        "Code":"43206EB360",
+        "Price":"35.26$",
+        "kg":"10.05",
+        "image":"./image/43206EB360.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF3Q1JEBCEQHRQJNxNkeS87GxwCc3xxcGJxZyEEOGAxZnljXzAiZykkIWd-GGNbMFM4OjYrIQQ4Y3F7amd-d3V1aGEse3Esf2YEYGlmNiI-KCxxd3MDZXRzcD5vcDMtJwI-Zio1PigsEw0NYGlmKjI-KCwTFwgGAXcAcytVT3V1e3BwfGFtPndvZ34YHzgAAAAAWkCfVw%3D%3D%24&vid=0&cid=7&uid=193818&q=VSKDD3C27GA018258"
+    },
+    "E62004KK0A":{
+        "name_ar":"مساعد خلفي",
+        "name_en":"SHOCK ABSORBER KIT-REAR",
+        "Code":"E62004KK0A",
+        "Price":"118.56$",
+        "kg":"1.78",
+        "image":"./image/E62004KK0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGTp7ag4MX0-fDt0_eAncvf__jml5iVlIaVg8Xg3ITVgp2Hu9TGg83AxYOa_Ie_1Lfc3tLPxeDch5WfjoOak5GRjIXIn5XIm4LghI2C0sbazMiVk5bngZCXl9qLlNfJw-bags7R2szI9-nphI2CztbazMj38-zi5ZPkl8-xq5GRn5SUmIWJ2pOLg5r8-9wAAAAAlsmnlA%3D%3D%24&vid=0&cid=7&uid=193825&q=VSKDD3C27GA018258"
+    },
+    "40342EB00A":{
+        "name_ar":"أكوب جنوط ( طيس )",
+        "name_en":"ORNAMENT-DISC WHEEL",
+        "Code":"40342EB00A",
+        "Price":"30.36$",
+        "kg":"0.03",
+        "image":"./image/40342EB00A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEGMiM1dVBhbGV4RmIVCF5Kam1zAg0AARMAFlB1SRFAFwgSLkFTFlhVUBYPaRIqQSJJS0daUHVJEgAKGxYPBgQEGRBdCgBdDhd1ERgXR1NPWV0ABgF3FAUCAU8eAUJcVnNPF1tET1ldYnx8ERgXW0NPWV1iZnl3cAZxAlokPgQECgEBDRAcTwYeFg9pbkkAAAAAnqVlCg%3D%3D%24&vid=0&cid=7&uid=193839&q=VSKDD3C27GA018258"
+    },
+    "D1MFM4KJ1J":{
+        "name_ar":"أقمشة فرامل أمامية",
+        "name_en":"PAD KIT-DISC",
+        "Code":"D1MFM4KJ1J",
+        "Price":"134.22$",
+        "kg":"2.03",
+        "image":"./image/D1MFM4KJ1J.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH1wdDGhqOSn5aLtZHm-625mZ6A8f7z8uDz5aOGuuKz5Pvh3bKg5aumo-X8muHWstG6uLSpo4a64fP56OX89ff36uOu-fOu_eSJ4uvktKC8qq7z8vGB5_bx8rzt8rGvpYC85Ki3vKqukY-P4uvkqLC8qq6RlYqEg_WC8anXzff3-fLy_uPvvPXt5fyanboAAAAA61BZSA%3D%3D%24&vid=0&cid=8&uid=193841&q=VSKDD3C27GA018258"
+    },
+    "D4060EB36A":{
+        "name_ar":"أقمشة فرامل خلفية",
+        "name_en":"SHOE SET-REAR BRAKE",
+        "Code":"D4060EB36A",
+        "Price":"219.46$",
+        "kg":"3.7",
+        "image":"./image/D4060EB36A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHP--r8vJmopayxj6vcwZeDo6S6y8TJyNrJ35m8gNiJ3sHb54ia35Gcmd_GoNvsiOuAgo6TmbyA28nD0t_Gz83N0NmUw8mUx96z2NHejpqGkJTJyMq73czLyIbXyIuVn7qG3pKNhpCUq7W12NHekoqGkJSrr7C-uc-4y5Pt983Nw8jIxNnVhs_X38agp4AAAAAAtTxseg%3D%3D%24&vid=0&cid=8&uid=193842&q=VSKDD3C27GA018258"
+    },
+    "460104KJ3B":{
+        "name_ar":"علبة فرامل",
+        "name_en":"CYLINDER BRAKE",
+        "Code":"460104KJ3B",
+        "Price":"595.03$",
+        "kg":"0.82",
+        "image":"./image/460104KJ3B.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwG2gpOFxeDR3NXI9tKluO762t3Dsr2wsaOwpuDF-aHwp7iinvHjpujl4Ka_2aKV8ZL5-_fq4MX5orC6q6a_trS0qaDturDtvqfKoain9-P_6e2ws7LCpLWysf-usfLs5sP_p-v0_-nt0szMoain6_P_6e3S1snHwLbBsuqUjrS0urGxvaCs_7aupr_Z3vkAAAAAKcPvDQ%3D%3D%24&vid=0&cid=8&uid=193845&q=VSKDD3C27GA018258"
+    },
+    "472104KH2E":{
+        "name_ar":"باكم فرامل",
+        "name_en":"BOOSTER BRAKE",
+        "Code":"472104KH2E",
+        "Price":"551.33$",
+        "kg":"4.268",
+        "image":"./image/472104KH2E.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFiVkdRETQFCAEcIgZxbDouDgkXZmlkZXdkcjQRLXUkc2x2SiU3cjwxNHJrDXZBJUYtLyM-NBEtdmRuf3JrYmBgfXQ5bmQ5anMedXxzIzcrPTlkZmYVcGFmZSt6ZSY4Mhcrcz8gKz05BhgYdXxzPycrPTkGAh0TFGIVZj5AWmBgbmVlaXR4K2J6cmsNCi0AAAAA6QpJ3g%3D%3D%24&vid=0&cid=8&uid=193855&q=VSKDD3C27GA018258"
+    },
+    "F20224JNMH":{
+        "name_ar":"صدام أمامي",
+        "name_en":"Front bumper",
+        "Code":"F20224JNMH",
+        "Price":"373.20$",
+        "kg":"4.71",
+        "image":"./image/F20224JNMH.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwH3w9LEhKGQnZSJt5Pk-a-7m5yC8_zx8OLx56GEuOCx5vnj37Ci56mkoef-mOPWsNO4uraroYS44_H76uf-9_X16OGs-_Gs_-aJ4OnmtqK-qKzz9vOD5fTz8L7v8LOtp4K-5qq1vqisk42N4OnmqrK-qKyTl4iGgfeA86vVz_X1-_Dw_OHtvvfv5_6Yn7gAAAAA6aNFqg%3D%3D%24&vid=0&cid=10&uid=193874&q=VSKDD3C27GA018258"
+    },
+    "623104KJ0C":{
+        "name_ar":"شبك أمامي",
+        "name_en":"GRILLE FRONT",
+        "Code":"623104KJ0C",
+        "Price":"200.60$",
+        "kg":"4.87",
+        "image":"./image/623104KJ0C.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwFpXUxaGj8OAwoXKQ16ZzElBQIcbWJvbnxveT8aJn4veGd9QS48eTc6P3lgBn1ILk0mJCg1PxomfW9ldHlgaWtrdn8yZW8yYXgXfnd4KDwgNjJtaG4de2ptbiBxbi0zORwgeDQrIDYyDRMTfnd4NCwgNjINCRYYH2kebTVLUWtrZW5uYn9zIGlxeWAGASYAAAAAues0fw%3D%3D%24&vid=0&cid=10&uid=193875&q=VSKDD3C27GA018258"
+    },
+    "638404JA5A":{
+        "name_ar":"بطانة  رفرف أمامي يمين",
+        "name_en":"PROTECTOR FR FEN,RH NARROW",
+        "Code":"638404JA5A",
+        "Price":"40.33$",
+        "kg":"1.44",
+        "image":"./image/638404JA5A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF_S1pMDCkYFRwBPxtscSczExQKe3R5eGp5bykMMGg5bnFrVzgqbyEsKW92EGteOFswMj4jKQwwa3lzYm92f319YGkkc3kkd24BaGFuPio2ICR7f3sLbXx7eDZneDslLwo2biI9NiAkGwUFaGFuIjo2ICQbHwAOCX8IeyNdR319c3h4dGllNn9nb3YQFzAAAAAAA4jIpA%3D%3D%24&vid=0&cid=10&uid=193877&q=VSKDD3C27GA018258"
+    },
+    "638434JA5A":{
+        "name_ar":"بطانة  رفرف أمامي يسار",
+        "name_en":"PROTECTOR FR FEN,LH NARROW",
+        "Code":"638434JA5A",
+        "Price":"34.58$",
+        "kg":"1.44",
+        "image":"./image/638404JA5A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF_S1pMDCkYFRwBPxtscSczExQKe3R5eGp5bykMMGg5bnFrVzgqbyEsKW92EGteOFswMj4jKQwwa3lzYm92f319YGkkc3kkd24BaGFuPio2ICR7f3sLbXx7eDZneDslLwo2biI9NiAkGwUFaGFuIjo2ICQbHwAOCX8IeyNdR319c3h4dGllNn9nb3YQFzAAAAAAA4jIpA%3D%3D%24&vid=0&cid=10&uid=193877&q=VSKDD3C27GA018258"
+    },
+    "F31004KJEA":{
+        "name_ar":"رفرف أمامي يمين",
+        "name_en":"FENDER-FRONT , RH",
+        "Code":"F31004KJEA",
+        "Price":"175.93$",
+        "kg":"3",
+        "image":"./image/F31004KJEA.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF_S1pMDCkYFRwBPxtscSczExQKe3R5eGp5bykMMGg5bnFrVzgqbyEsKW92EGteOFswMj4jKQwwa3lzYm92f319YGkkc3kkd24BaGFuPio2ICR7f3sLbXx7eDZneDslLwo2biI9NiAkGwUFaGFuIjo2ICQbHwAOCX8IeyNdR319c3h4dGllNn9nb3YQFzAAAAAAA4jIpA%3D%3D%24&vid=0&cid=10&uid=193877&q=VSKDD3C27GA018258"
+    },
+    "F31014KJEA":{
+        "name_ar":"رفرف أمامي يسار",
+        "name_en":"FENDER-FRONT , LH",
+        "Code":"F31014KJEA",
+        "Price":"344.86$",
+        "kg":"3.6",
+        "image":"./image/F31004KJEA.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF_S1pMDCkYFRwBPxtscSczExQKe3R5eGp5bykMMGg5bnFrVzgqbyEsKW92EGteOFswMj4jKQwwa3lzYm92f319YGkkc3kkd24BaGFuPio2ICR7f3sLbXx7eDZneDslLwo2biI9NiAkGwUFaGFuIjo2ICQbHwAOCX8IeyNdR319c3h4dGllNn9nb3YQFzAAAAAAA4jIpA%3D%3D%24&vid=0&cid=10&uid=193877&q=VSKDD3C27GA018258"
+    },
+    "F51004KJEA":{
+        "name_ar":"كبوت",
+        "name_en":"HOOD",
+        "Code":"F51004KJEA",
+        "Price":"439.67$",
+        "kg":"17",
+        "image":"./image/F51004KJEA.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEeKjstbUh5dH1gXnoNEEZScnVrGhUYGQsYDkhtUQlYDxAKNllLDkBNSA4XcQo_WTpRU19CSG1RChgSAw4XHhwcAQhFEhhFFg9gCQAPX0tXQUUaGBpqDB0aGVcGGVpETmtXD0NcV0FFemRkCQAPQ1tXQUV6fmFvaB5pGkI8JhwcEhkZFQgEVx4GDhdxdlEAAAAABOdP6w%3D%3D%24&vid=0&cid=10&uid=193880&q=VSKDD3C27GA018258"
+    },
+    "850104KJ0A":{
+        "name_ar":"صدام خلفي",
+        "name_en":"BUMPER KIT-REAR",
+        "Code":"850104KJ0A",
+        "Price":"552.96$",
+        "kg":"11.78",
+        "image":"./image/850104KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGlkYCW1vPCz8bb5cG2q_3pyc7Qoa6jorCjtfPW6rLjtKuxjeLwtfv287WsyrGF4oHq6OT589bqsaOpuLWspaenurP-qaP-rbTasru05PDs-v6vo6HRt6ahouy9ouH_9dDstPjn7Pr-wd_fsru0-ODs-v7BxdrU06XSofmHnaenqaKirrO_7KW9tazKzeoAAAAAtQtDng%3D%3D%24&vid=0&cid=11&uid=193915&q=VSKDD3C27GA018258"
+    },
+    "963734KJ0A":{
+        "name_ar":"مراية جانبية يمين",
+        "name_en":"GARNISH-DOOR MIRROR,RH",
+        "Code":"963734KJ0A",
+        "Price":"72.25$",
+        "kg":"0.17",
+        "image":"./image/963734KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF2QlNFBSARHBUINhJleC46Gh0Dcn1wcWNwZiAFOWEwZ3hiXjEjZiglIGZ_GWJTMVI5OzcqIAU5YnB6a2Z_dnR0aWAtenAtfmcMYWhnNyM_KS19c3ECZHVycT9ucTIsJgM_Zys0PyktEgwMYWhnKzM_KS0SFgkHAHYBcipUTnR0enFxfWBsP3ZuZn8ZHjkAAAAABTPLhw%3D%3D%24&vid=0&cid=14&uid=193934&q=VSKDD3C27GA018258"
+    },
+    "963744KJ0A":{
+        "name_ar":"مراية جانبية يسار",
+        "name_en":"GARNISH-DOOR MIRROR,LH",
+        "Code":"963744KJ0A",
+        "Price":"64.29$",
+        "kg":"0.17",
+        "image":"./image/963734KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwF2QlNFBSARHBUINhJleC46Gh0Dcn1wcWNwZiAFOWEwZ3hiXjEjZiglIGZ_GWJTMVI5OzcqIAU5YnB6a2Z_dnR0aWAtenAtfmcMYWhnNyM_KS19c3ECZHVycT9ucTIsJgM_Zys0PyktEgwMYWhnKzM_KS0SFgkHAHYBcipUTnR0enFxfWBsP3ZuZn8ZHjkAAAAABTPLhw%3D%3D%24&vid=0&cid=14&uid=193934&q=VSKDD3C27GA018258"
+    },
+    "628904JA0A":{
+        "name_ar":"شعار نيسان شبك امامي",
+        "name_en":"EMBLEM FRONT",
+        "Code":"628904JA0A",
+        "Price":"30.25$",
+        "kg":"0.348",
+        "image":"./image/628904JA0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwEFMSA2dlNib2Z7RWEWC11JaW5wAQ4DAhADFVN2ShJDFAsRLUJQFVtWUxUMahEgQiFKSERZU3ZKEQMJGBUMBQcHGhNeCQNeDRR_EhsURFBMWl4ODwFxFwYBAkwdAkFfVXBMFFhHTFpeYX9_EhsUWEBMWl5hZXp0cwVyAVknPQcHCQICDhMfTAUdFQxqbUoAAAAAdjtoFA%3D%3D%24&vid=0&cid=14&uid=193938&q=VSKDD3C27GA018258"
+    },
+    "990414KD1A":{
+        "name_ar":"خط جانبي مديل 2016",
+        "name_en":"STRIPE SET ACCENT 2016",
+        "Code":"990414KD1A",
+        "Price":"327.76$",
+        "kg":"0.09",
+        "image":"./image/990414KD1A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwHg1MXTk7aHioOeoITz7risjIuV5Ovm5_Xm8LaTr_em8e70yKe18L6ztvDpj_TFp8SvraG8tpOv9Obs_fDp4OLi__a77Oa76PGa9_7xobWpv7vr5O2U8uPk56n456S6sJWp8b2iqb-7hJqa9_7xvaWpv7uEgJ-RluCX5LzC2OLi7Ofn6_b6qeD48OmPiK8AAAAAKFYwcQ%3D%3D%24&vid=0&cid=14&uid=193937&q=VSKDD3C27GA018258"
+    },
+    "265504KJ0A":{
+        "name_ar":"اسطب خلفي يمين",
+        "name_en":"COMBINATION ,RH",
+        "Code":"265504KJ0A",
+        "Price":"149.27$",
+        "kg":"1.02",
+        "image":"./image/265504KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGCtqex8dTl6OH8wuaRjNrO7un3homEhZeEktTxzZXEk4yWqsXXktzR1JKL7ZasxabNz8Pe1PHNloSOn5KLgoCAnZTZjoTZipPzlZyTw9fL3dmCh4P2kIGGhcuahcbY0vfLk9_Ay93Z5vj4lZyT38fL3dnm4v3z9IL1ht6guoCAjoWFiZSYy4Kakovt6s0AAAAAhduG1A%3D%3D%24&vid=0&cid=5&uid=193698&q=VSKDD3C27GA018258"
+    },
+    "265554KJ0A":{
+        "name_ar":"اسطب خلفي يسار",
+        "name_en":"COMBINATION ,LH",
+        "Code":"265554KJ0A",
+        "Price":"170.43$",
+        "kg":"2.609",
+        "image":"./image/265554KJ0A.jpg",
+        "url":"https://partsouq.com/en/catalog/genuine/unit?c=Nissan&ssd=%24%2AKwGCtqex8dTl6OH8wuaRjNrO7un3homEhZeEktTxzZXEk4yWqsXXktzR1JKL7ZasxabNz8Pe1PHNloSOn5KLgoCAnZTZjoTZipPzlZyTw9fL3dmCh4P2kIGGhcuahcbY0vfLk9_Ay93Z5vj4lZyT38fL3dnm4v3z9IL1ht6guoCAjoWFiZSYy4Kakovt6s0AAAAAhduG1A%3D%3D%24&vid=0&cid=5&uid=193698&q=VSKDD3C27GA018258"
+    }
+}
